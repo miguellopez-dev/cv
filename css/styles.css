@@ -45,7 +45,7 @@ p {
 }
 
 .middle-container {
-  width: 50%;
+  width: 90%;
   margin: 100px auto;
 
 }
@@ -83,6 +83,11 @@ p {
   color: #EAF6F6;
 }
 
+.skills {
+  width: 65%;
+  margin: auto;
+}
+
 .skill-row {
   margin: 100px auto;
   text-align: left;
@@ -104,7 +109,7 @@ p {
 
 .profile img {
   border-radius: 75%;
-  width: 25%;
+  
 }
 
 .contact-me {
